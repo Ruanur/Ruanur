@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Ruanur [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSinonHecateII%2Fhit-counter&count_bg=%230364F6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![](https://github-readme-stats.vercel.app/api?username=SinonHecateII&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SinonHecateII&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+![](https://github-readme-stats.vercel.app/api?username=Ruanur&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SinonHecateII&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lp5060)](https://solved.ac/profile/lp5060)
 <!--
