@@ -1,9 +1,8 @@
 <a href="https://github.com/Ruanur"><img src="https://capsule-render.vercel.app/api?type=Waving&color=black&customColorList=6&height=180&section=header&text=Min%20Creator&fontSize=50&animation=twinkling"/></a>
   
-### Min KyoungJin 👋
-
-### Tech 
+### Tech
 <hr/>
+
 
 <a href="https://github.com/Ruanur">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ruanur&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
