@@ -1,4 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Min Kyoung Jin&fontSize=90" />
 ### Min Kyoung Jin 👋
+
+
 
 ## Ruanur 
 <a href="https://github.com/Ruanur">
