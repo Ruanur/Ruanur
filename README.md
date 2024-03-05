@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Min Kyoung Jin 👋
+### Min KyoungJin 👋
 
 <hr/>
 
