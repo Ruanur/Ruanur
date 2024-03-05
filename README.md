@@ -5,10 +5,12 @@
 <hr/>
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Csharp-512BD4?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
+<div align='center'>
+  <img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cplusplus-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
+</div>
 
 <hr/>
 
