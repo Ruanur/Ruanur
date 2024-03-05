@@ -4,9 +4,8 @@
   
 ### Min Kyoung Jin 👋
 
+<hr/>
 
-
-## Ruanur 
 <a href="https://github.com/Ruanur">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ruanur&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <br>
