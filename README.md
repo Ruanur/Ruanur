@@ -5,7 +5,7 @@
 <hr/>
 
 ### Tech Stack
-![c]<img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![csharp](https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
