@@ -1,11 +1,15 @@
 ### Min Kyoung Jin 👋
 
-## Ruanur [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRuanur%2Fhit-counter&count_bg=%230364F6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![](https://github-readme-stats.vercel.app/api?username=Ruanur&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanur&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
----
+## Ruanur 
+<a href="https://github.com/Ruanur">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ruanur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ruanur&hide=c%23&layout=compact&langs_count=8&theme=radical"/>
+</a>
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lp5060)](https://solved.ac/profile/lp5060)
+
 <!--
-**SinonHecateII/SinonHecateII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
