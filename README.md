@@ -2,8 +2,7 @@
   
 ### Min KyoungJin 👋
 
-<hr/>
-### Development skills
+### Tech 
 <hr/>
 
 <a href="https://github.com/Ruanur">
