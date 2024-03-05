@@ -1,11 +1,11 @@
 <a href="https://github.com/Ruanur"><img src="https://capsule-render.vercel.app/api?type=Waving&color=black&customColorList=6&height=180&section=header&text=Min%20Creator&fontSize=50&animation=twinkling"/></a>
 
-###  Min Kyoung Jin 👋
+###  Min Kyoung Jin 😏
 
 <hr/>
 
 ### Tech Stack
-![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
+![c]<img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![csharp](https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
