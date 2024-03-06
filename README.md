@@ -8,7 +8,7 @@
 <div>
   <img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C#-512BD4?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C Sharp-512BD4?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-4574E0?style=flat&logo=C&logoColor=white"/>
 </div>
 
