@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=black&height=200&section=header&text=Hello%20Github!&fontSize=90&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=black&height=130&section=header&text=Hello%20Github!&fontSize=70&fontColor=FFFFFF"/>
 <br>
 
 # Min Kyoung Jin 😃
