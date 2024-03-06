@@ -1,5 +1,6 @@
 #  Min Kyoung Jin 😏
 
+<hr/>
 
 ## Tech Stack
 <div>
