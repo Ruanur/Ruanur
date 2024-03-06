@@ -1,6 +1,6 @@
-### Min Kyoung Jin 😏
+# Min Kyoung Jin 😏
 
-<hr/>
+<br>
 
 ### Tech Stack
 <div>
@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/-Unity-E6E6FA?style=flat-square&logo=Unity&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a> 
 </div>
-
 <hr/>
+<br>
 
 <a href="https://github.com/Ruanur">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ruanur&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
