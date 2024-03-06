@@ -7,7 +7,7 @@
 ### Tech Stack
 <div>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
 </div>
