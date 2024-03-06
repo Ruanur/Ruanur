@@ -1,5 +1,3 @@
-<a href="https://github.com/Ruanur"><img src="https://capsule-render.vercel.app/api?type=Waving&color=black&customColorList=6&height=180&section=header&text=Min%20Creator&fontSize=50&animation=twinkling"/></a>
-
 ###  Min Kyoung Jin 😏
 
 <hr/>
