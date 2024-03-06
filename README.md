@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-C Sharp-512BD4?style=flat-square&logo=CSharp&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/-Unity-E6E6FA?style=flat-square&logo=Unity&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/-Unreal Engine-FFFFFF?style=flat-square&logo=Unreal Engine&logoColor=black"/></a> 
+  <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=black"/></a> 
 </div>
 
 <hr/>
