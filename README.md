@@ -6,10 +6,10 @@
 
 ### Tech Stack
 <div>
-  <a href="https://ahma0.github.io/"><img src="https://img.shields.io/badge/-Tech_Blog-4E5EE4?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://ahma0.notion.site/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="mailto:annay01794@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
-  <a href="mailto:dsd932@naver.com"><img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/-NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
 </div>
 
 <hr/>
