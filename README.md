@@ -1,8 +1,11 @@
-# Min Kyoung Jin 😏
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=black&height=200&section=header&text=Hello%20Github!&fontSize=90&fontColor=FFFFFF"/>
+<br>
+
+# Min Kyoung Jin 😃
 
 <br>
 
-### Tech Stack
+### 📌 Tech Stack 📌
 <div>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
