@@ -22,7 +22,7 @@
 </a>
 
 
-
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lp5060)](https://solved.ac/profile/lp5060)
-Here are some ideas to get you started:
+
 
