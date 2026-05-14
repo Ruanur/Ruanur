@@ -2,16 +2,16 @@
 
 # Hi, There!
 
-I'm **Game Cilent Developer** using **Unreal Engine** and **Unity Engine**. <br>
-I focus on creating games that people can genuinely enjoy. I always seek clear design, excellent accessibility, and ways to grow as a developer.
-
+I'm **Game Cilent Developer** using **Unreal Engine** and **Unity Engine**. :computer:  <br>
+I focus on creating games that people can genuinely enjoy. :blush: <br>
+I always seek clear design, excellent accessibility, and ways to grow as a developer. :pencil: 
 <br>
 
 ## Projects
 
 ### Playground
 
-
+### Master Kitchen
 
 ### 📌 Tech Stack 📌
 <div>
