@@ -1,9 +1,17 @@
-#<img src="https://capsule-render.vercel.app/api?type=cylinder&color=black&height=130&section=header&text=Hello!&fontSize=70&fontColor=FFFFFF"/>
+---
+
+# Hi, There!
+
+I'm **Game Cilent Developer** using **Unreal Engine** and **Unity Engine**. <br>
+I focus on creating games that people can genuinely enjoy. I always seek clear design, excellent accessibility, and ways to grow as a developer.
+
 <br>
 
-# Min Kyoung Jin 😃
+## Projects
 
-<br>
+### Playground
+
+
 
 ### 📌 Tech Stack 📌
 <div>
