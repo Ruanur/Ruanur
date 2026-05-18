@@ -5,7 +5,7 @@ I focus on creating games that people can genuinely enjoy. :blush: <br>
 I always seek clear design, excellent accessibility, and ways to grow as a developer. :pencil: 
 <br>
 
-## Projects
+## Main Projects
 
 ### Playground
 
