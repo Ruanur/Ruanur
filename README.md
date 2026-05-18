@@ -45,15 +45,19 @@ I always seek clear design, excellent accessibility, and ways to grow as a devel
 
 ---
 
-### 📌 Tech Stack 📌
-<div>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-C Sharp-512BD4?style=flat-square&logo=CSharp&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/-Unity-E6E6FA?style=flat-square&logo=Unity&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a> 
+### Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-<hr/>
+
 <br>
 
 <a href="https://github.com/Ruanur">
@@ -63,6 +67,6 @@ I always seek clear design, excellent accessibility, and ways to grow as a devel
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lp5060)](https://solved.ac/profile/lp5060)
+
 
 
